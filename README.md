@@ -34,3 +34,10 @@ Pseudocode:
 
 ### _Answer_
 
+## Exercise 3
+
+Write an algorithm and draw a flowchart that will read three numbers and prints the value of the largest number.
+
+> Given that the three numbers are not equal to each other)
+
+### _Answer_
